@@ -7,15 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api-servicio" />
         <module name="EurekaConfig" />
+        <module name="api-empresa" />
         <module name="api-rol" />
+        <module name="api-reserva" />
+        <module name="api-categoria" />
         <module name="ConfigServer" />
+        <module name="api-ciudad" />
         <module name="GatewayConfig" />
+        <module name="api-usuario" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-products" target="21" />
       <module name="api-products (1)" target="21" />
+      <module name="api-rol (1)" target="21" />
       <module name="ApiAlmacen" target="21" />
       <module name="ApiAlmacen (1)" target="21" />
       <module name="ConfigServer (1)" target="21" />
@@ -33,9 +40,16 @@
       <module name="EurekaConfig (1)" options="-parameters" />
       <module name="GatewayConfig" options="-parameters" />
       <module name="GatewayConfig (1)" options="-parameters" />
+      <module name="api-categoria" options="-parameters" />
+      <module name="api-ciudad" options="-parameters" />
+      <module name="api-empresa" options="-parameters" />
       <module name="api-products" options="-parameters" />
       <module name="api-products (1)" options="-parameters" />
+      <module name="api-reserva" options="-parameters" />
       <module name="api-rol" options="-parameters" />
+      <module name="api-rol (1)" options="-parameters" />
+      <module name="api-servicio" options="-parameters" />
+      <module name="api-usuario" options="-parameters" />
     </option>
   </component>
 </project>

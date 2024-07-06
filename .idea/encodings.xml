@@ -10,7 +10,13 @@
     <file url="file://$PROJECT_DIR$/Proyecto-DAW1/EurekaConfig/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Proyecto-DAW1/GatewayConfig/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Proyecto-DAW1/api-products/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-categoria/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-ciudad/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-empresa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-products/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-reserva/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-rol/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-servicio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-usuario/src/main/java" charset="UTF-8" />
   </component>
 </project>

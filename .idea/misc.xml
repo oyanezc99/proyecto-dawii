@@ -15,6 +15,12 @@
         <option value="$PROJECT_DIR$/Proyecto-DAW1/EurekaConfig/pom.xml" />
         <option value="$PROJECT_DIR$/Proyecto-DAW1/GatewayConfig/pom.xml" />
         <option value="$PROJECT_DIR$/api-rol/pom.xml" />
+        <option value="$PROJECT_DIR$/api-categoria/pom.xml" />
+        <option value="$PROJECT_DIR$/api-ciudad/pom.xml" />
+        <option value="$PROJECT_DIR$/api-empresa/pom.xml" />
+        <option value="$PROJECT_DIR$/api-reserva/pom.xml" />
+        <option value="$PROJECT_DIR$/api-servicio/pom.xml" />
+        <option value="$PROJECT_DIR$/api-usuario/pom.xml" />
       </list>
     </option>
   </component>
